@@ -1,4 +1,4 @@
-# Arabic-Mac-Keyboard-Layout-for-Emacs
+# Arabic Mac Keyboard Layout for Emacs
 
 To use the `arabic.el` file in your Emacs configuration, follow these steps:
 
